@@ -1,8 +1,8 @@
 {
   "target": "dev",
   "branch": "dev",
-  "commit": "42a4ae7c5cabdb84e90a9c3fda38673d4d4b17a9",
-  "shortCommit": "42a4ae7",
+  "commit": "ef957a4c3796d5b5a7f43f350f7bde1ae005e23f",
+  "shortCommit": "ef957a4",
   "buildNumber": null,
-  "builtAtUtc": "2026-11-10T20:03:05Z"
+  "builtAtUtc": "2026-11-11T19:52:02Z"
 }
